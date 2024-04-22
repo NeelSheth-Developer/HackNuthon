@@ -27,13 +27,18 @@ AI - Virtual HR Manager revolutionizes HR management with AI, automating tasks, 
 
 ![WhatsApp Image 2024-04-21 at 10 22 14_c7bf75f7](https://github.com/NeelSheth-Developer/HackNuthon/assets/149947298/0d4d18e7-7a71-4a44-bca4-d816a8d54a87)
 
+<hr>
+
 ![WhatsApp Image 2024-04-21 at 10 22 15_9e9051f8](https://github.com/NeelSheth-Developer/HackNuthon/assets/149947298/da07d77d-2d56-4bf0-a878-ba01a2729d96)
+
+<hr>
 
 ![done](https://github.com/NeelSheth-Developer/HackNuthon/assets/149947298/ea6081f3-82d3-4842-b333-e706fd69062f)
 
 <hr>
 
 <h5>User View</h5>
+
 
 ![WhatsApp Image 2024-04-21 at 10 21 36_fb72f5a9](https://github.com/NeelSheth-Developer/HackNuthon/assets/149947298/dac169f0-6743-45b7-b28e-553cd1d540a4)
 
