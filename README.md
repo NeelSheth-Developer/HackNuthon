@@ -12,7 +12,7 @@ AI - Virtual HR Manager revolutionizes HR management with AI, automating tasks, 
 
 "The AI Avatar is an interactive virtual representation designed to simulate human-like behavior. It incorporates advanced features such as eye blinking, lip syncing, and speech generation based on user-provided text. The avatar dynamically generates its appearance in response to the input text, leveraging various APIs to create a realistic and engaging visual experience."
 
-## Team Members
+<h2>Team Members</h2>
 
 - [Neel Sheth](https://www.linkedin.com/in/neel-sheth-91b362262/)
 - [Tirth Patel](https://www.linkedin.com/in/tirthpatel-7ab9ba264/)
@@ -21,7 +21,7 @@ AI - Virtual HR Manager revolutionizes HR management with AI, automating tasks, 
  
  <hr>
 
- <h4>Preview<h4>
+ <h2>Preview<h2>
  
 <h5>Admin Panel</h5>
 
