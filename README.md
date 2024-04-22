@@ -8,9 +8,8 @@ AI - Virtual HR Manager revolutionizes HR management with AI, automating tasks, 
 
 ##AI - Avatar:
 
--Here's a more properly written and descriptive version:
 
-"The AI Avatar is an interactive virtual representation designed to simulate human-like behavior. It incorporates advanced features such as eye blinking, lip syncing, and speech generation based on user-provided text. The avatar dynamically generates its appearance in response to the input text, leveraging various APIs to create a realistic and engaging visual experience."
+The AI Avatar is an interactive virtual representation designed to simulate human-like behavior. It incorporates advanced features such as eye blinking, lip syncing, and speech generation based on user-provided text. The avatar dynamically generates its appearance in response to the input text, leveraging various APIs to create a realistic and engaging visual experience.
 
 <h2>Team Members</h2>
 
