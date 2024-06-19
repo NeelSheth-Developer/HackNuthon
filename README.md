@@ -1,3 +1,10 @@
+# CSI Hackathon DAS-INFOMEDIA TRACK 2024
+
+
+![1713796982229](https://github.com/NeelSheth-Developer/HackNuthon/assets/149947298/8d864fe4-7dfc-41ed-bdb1-5ae4b442ec8c)
+
+
+
 # AI - Virtual HR Manager
 
 link: https://github.com/parththakkar1818/hackNuthon/tree/main 
